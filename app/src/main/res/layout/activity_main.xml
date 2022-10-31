@@ -30,7 +30,7 @@
         android:layout_marginBottom="20dp"
         android:text="Explore"
         android:textSize="30dp"
-        android:textColor="@color/secondaryColor"/>
+        android:textColor="@color/secondary_color"/>
 
     <TextView
 
@@ -41,21 +41,23 @@
         android:layout_marginTop="90dp"
         android:layout_marginEnd="20dp"
         android:layout_marginBottom="20dp"
-        android:fontFamily="@font/GoodFaster"
+        android:fontFamily="@font/goodfaster"
         android:gravity="right"
         android:text="Jastip
         Chingu"
-        android:textColor="@color/secondaryColor"
+        android:textColor="@color/secondary_color"
         android:textSize="40dp"
-        android:textStyle="normal">
+        android:textStyle="bold">
 
     </TextView>
 
-    <Button
+    <ImageView
+        android:id="@+id/imageButton5"
         android:layout_width="wrap_content"
-        android:layout_height="match_parent">
-
-    </Button>
+        android:layout_height="wrap_content"
+        android:layout_marginTop="607dp"
+        android:layout_marginStart="290dp"
+        app:srcCompat="@drawable/panahpink" />
 
 
 </RelativeLayout>

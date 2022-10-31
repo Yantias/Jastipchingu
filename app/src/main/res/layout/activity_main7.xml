@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity8"
+    android:background="@color/color_haichingu"
+    >
+
+
+    <ImageButton
+        android:id="@+id/imageButton28"
+        android:layout_width="11dp"
+        android:layout_height="10dp"
+        android:layout_marginStart="20dp"
+        android:layout_marginTop="40dp"
+        android:layout_marginLeft="20dp"
+        app:srcCompat="@drawable/panah_pink"
+        android:scaleType="fitXY"/>
+
+    <ImageButton
+        android:id="@+id/imageButton29"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="305dp"
+        android:layout_marginTop="30dp"
+        app:srcCompat="@drawable/search_pink" />
+
+    <ImageButton
+        android:id="@+id/imageButton30"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="30dp"
+        android:layout_marginStart="350dp"
+        app:srcCompat="@drawable/notification_pink" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="match_parent"
+        android:layout_marginStart="45dp"
+        android:layout_marginTop="28dp"
+        android:layout_marginLeft="40dp"
+        android:text="Kpop Album"
+        android:textSize="27dp"
+        android:textColor="@color/colors_sign"/>
+
+    <ImageView
+        android:id="@+id/imageView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="25dp"
+        android:layout_marginTop="120dp"
+        app:srcCompat="@drawable/baek_bambi" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="match_parent"
+        android:text="EXO"
+        android:textSize="20dp"
+        android:layout_marginLeft="25dp"
+        android:layout_marginTop="290dp"
+        android:textColor="@color/colors_shooping"/>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="match_parent"
+        android:text="Baekhyun (EXO) -"
+        android:textSize="19dp"
+        android:layout_marginLeft="25dp"
+        android:layout_marginTop="325dp"/>
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Bambi Album"
+        android:textSize="19dp"
+        android:layout_marginLeft="25dp"
+        android:layout_marginTop="350dp"/>
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Rp. 340.000"
+        android:layout_marginTop="290dp"
+        android:textSize="19dp"
+        android:layout_marginLeft="100dp"
+        android:textColor="@color/colors_sign"
+        />
+
+    <ImageView
+        android:id="@+id/imageView18"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="120dp"
+        android:layout_marginLeft="240dp"
+        app:srcCompat="@drawable/album_loveshot" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="match_parent"
+        android:text="EXO"
+        android:textSize="20dp"
+        android:layout_marginLeft="240dp"
+        android:layout_marginTop="290dp"
+        android:textColor="@color/colors_shooping"/>
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Rp. 300.000"
+        android:layout_marginTop="290dp"
+        android:textSize="19dp"
+        android:layout_marginLeft="300dp"
+        android:textColor="@color/colors_sign"/>
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="match_parent"
+        android:text="EXO - Love Shot Album"
+        android:textSize="19dp"
+        android:layout_marginLeft="240dp"
+        android:layout_marginTop="325dp"/>
+    <ImageView
+        android:id="@+id/imageView20"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="400dp"
+        android:layout_marginLeft="25dp"
+        app:srcCompat="@drawable/album_cbx" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="match_parent"
+        android:text="EXO - CBX"
+        android:textSize="16dp"
+        android:layout_marginLeft="25dp"
+        android:layout_marginTop="580dp"
+        android:textColor="@color/colors_shooping"/>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="match_parent"
+        android:text="EXO - CBX -1st mini"
+        android:textSize="19dp"
+        android:layout_marginLeft="25dp"
+        android:layout_marginTop="610dp"/>
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="match_parent"
+        android:text="Album HEY MAMA"
+        android:textSize="18dp"
+        android:layout_marginLeft="25dp"
+        android:layout_marginTop="640dp"/>
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Rp. 250.000"
+        android:layout_marginTop="580dp"
+        android:textSize="19dp"
+        android:layout_marginLeft="110dp"
+       android:textColor="@color/colors_sign"/>
+
+    <ImageView
+        android:id="@+id/imageView21"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="400dp"
+        android:layout_marginLeft="240dp"
+        app:srcCompat="@drawable/exo_lagi" />
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="match_parent"
+        android:text="EXO - XIUMIN - Brand New [Photobook.](+poster)"
+        android:textSize="19dp"
+        android:layout_marginLeft="220dp"
+        android:layout_marginTop="610dp"
+        android:textColor="@color/black_color"/>
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="match_parent"
+        android:text="EXO"
+        android:textSize="16dp"
+        android:layout_marginLeft="230dp"
+        android:layout_marginTop="580dp"
+        android:textColor="@color/colors_shooping"/>
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Rp. 115.000"
+        android:layout_marginTop="580dp"
+        android:textSize="19dp"
+        android:layout_marginLeft="300dp"
+        android:textColor="@color/colors_sign"/>
+
+
+
+</RelativeLayout>

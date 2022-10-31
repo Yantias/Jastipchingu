@@ -1,0 +1,211 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/color_haichingu"
+    tools:context=".MainActivity9"
+    >
+
+
+    <ImageButton
+        android:id="@+id/imageButton34"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="20dp"
+        android:layout_marginTop="40dp"
+        android:layout_marginLeft="20dp"
+        app:srcCompat="@drawable/cancel" />
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="150dp"
+        android:layout_marginTop="30dp"
+        android:text="Search"
+        android:textSize="25dp"
+        android:textColor="@color/primary_color"
+        android:textStyle="bold"/>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:layout_marginStart="60dp"
+        android:layout_marginLeft="20dp"
+        android:layout_marginTop="90dp"
+        android:layout_marginEnd="20dp"
+        android:layout_marginBottom="20dp"
+        android:gravity="left"
+        android:text="Try Album NCT"
+        android:textColor="@color/color_enter"
+        android:textSize="20dp"
+        android:textStyle="normal"/>
+
+    <ImageView
+        android:id="@+id/imageView19"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="120dp"
+        android:layout_marginLeft="20dp"
+        app:srcCompat="@drawable/garis" />
+
+    <ImageButton
+        android:id="@+id/imageButton35"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="340dp"
+        android:layout_marginTop="90dp"
+        app:srcCompat="@drawable/searc" />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:layout_marginStart="60dp"
+        android:layout_marginLeft="20dp"
+        android:layout_marginTop="125dp"
+        android:layout_marginEnd="20dp"
+        android:layout_marginBottom="20dp"
+        android:gravity="left"
+        android:text="Popular this week"
+        android:textColor="@color/colors_logo"
+        android:textSize="20dp"
+        android:textStyle="bold"/>
+
+    <ImageView
+        android:id="@+id/imageView23"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="35dp"
+        android:layout_marginTop="170dp"
+        app:srcCompat="@drawable/album_iuuu" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="match_parent"
+        android:text="IU"
+        android:textSize="20dp"
+        android:layout_marginLeft="30dp"
+        android:layout_marginTop="315dp"/>
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="match_parent"
+        android:text="IU - LILAC Album"
+        android:textSize="19dp"
+        android:layout_marginLeft="30dp"
+        android:layout_marginTop="345dp"/>
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Rp. 290.000"
+        android:layout_marginTop="310dp"
+        android:textSize="19dp"
+        android:layout_marginLeft="100dp"
+        android:textColor="@color/colors_sign"/>
+
+    <ImageView
+        android:id="@+id/imageView24"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="170dp"
+        android:layout_marginStart="235dp"
+        app:srcCompat="@drawable/album_obsession" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="match_parent"
+        android:text="EXO"
+        android:textSize="20dp"
+        android:layout_marginLeft="240dp"
+        android:layout_marginTop="310dp"
+        android:textColor="@color/colors_shooping"/>
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Rp. 300.000"
+        android:layout_marginTop="310dp"
+        android:textSize="19dp"
+        android:layout_marginLeft="300dp"
+        android:textColor="@color/colors_sign"/>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="match_parent"
+        android:layout_marginLeft="240dp"
+        android:layout_marginTop="340dp"
+        android:text="EXO - OBSESSION Album"
+        android:textSize="18dp" />
+
+    <ImageView
+        android:id="@+id/imageView25"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="400dp"
+        android:layout_marginLeft="30dp"
+        app:srcCompat="@drawable/album_cbx" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="match_parent"
+        android:text="EXO - CBX"
+        android:textSize="16dp"
+        android:layout_marginLeft="30dp"
+        android:layout_marginTop="580dp"/>
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Rp. 315.000"
+        android:layout_marginTop="575dp"
+        android:textSize="19dp"
+        android:layout_marginLeft="110dp"
+        android:textColor="@color/colors_sign"/>
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="match_parent"
+        android:text="Seventeen  - Album "
+        android:textSize="19dp"
+        android:layout_marginLeft="30dp"
+        android:layout_marginTop="610dp"/>
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="match_parent"
+        android:text="Vol.3  [An Ode}"
+        android:textSize="19dp"
+        android:layout_marginLeft="30dp"
+        android:layout_marginTop="640dp"/>
+
+    <ImageView
+        android:id="@+id/imageView26"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="420dp"
+        android:layout_marginLeft="240dp"
+        app:srcCompat="@drawable/album_exo_univrs" />
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="match_parent"
+        android:text="EXO"
+        android:textSize="16dp"
+        android:layout_marginLeft="250dp"
+        android:layout_marginTop="575dp"/>
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="match_parent"
+        android:text="EXO  - UNIVERSE Album"
+        android:textSize="17dp"
+        android:layout_marginLeft="250dp"
+        android:layout_marginTop="610dp"/>
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Rp. 230.000"
+        android:layout_marginTop="570dp"
+        android:textSize="19dp"
+        android:layout_marginLeft="290dp"
+        android:textColor="@color/colors_sign"/>
+
+
+
+
+</RelativeLayout>
