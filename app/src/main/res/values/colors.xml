@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="primaryColor">#FA8EAE</color>
+    <color name="secondaryColor">#FFFFFF</color>
+    <color name="blackColor">#000000</color>
+    <color name="colorsShooping">#AB9E9E</color>
+    <color name="colorsAbuabu">#CFCFD4</color>
+    <color name="colorsTampilanshopp">#CA9E83</color>
+    <color name="colorsGoshopping">#AF8686</color>
+    <color name="colorsLogo">#ECABAB</color>
+    <color name="colorsSign">#F01358</color>
+    <color name="colorsKpop">#EDD4C2</color>
+    <color name="colorsBackground">#F3F4F4</color>
+
+</resources>
