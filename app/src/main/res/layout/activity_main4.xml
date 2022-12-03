@@ -5,7 +5,7 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     tools:context=".MainActivity7"
-    android:background="@color/color_haichingu"
+    android:background="@color/secondaryColor"
     >
 
 
@@ -74,7 +74,7 @@
         android:layout_marginLeft="45dp"
         android:layout_marginTop="180dp"
         android:text="Lightstick"
-        android:textColor="@color/black_color"
+        android:textColor="@color/blackColor"
         android:textSize="27dp"/>
     <TextView
         android:layout_width="wrap_content"
@@ -84,7 +84,7 @@
         android:layout_marginLeft="45dp"
         android:layout_marginTop="320dp"
         android:text="Kpop Album"
-        android:textColor="@color/black_color"
+        android:textColor="@color/blackColor"
         android:textSize="27dp"/>
 
     <TextView
@@ -95,7 +95,7 @@
         android:layout_marginLeft="40dp"
         android:layout_marginTop="460dp"
         android:text="Kpop Merchandise"
-        android:textColor="@color/black_color"
+        android:textColor="@color/blackColor"
         android:textSize="26dp"/>
 
     <TextView
@@ -106,7 +106,7 @@
         android:layout_marginLeft="45dp"
         android:layout_marginTop="600dp"
         android:text="K - Clothing"
-        android:textColor="@color/black_color"
+        android:textColor="@color/blackColor"
         android:textSize="27dp"/>
 
     <ImageView

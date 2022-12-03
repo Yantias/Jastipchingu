@@ -5,7 +5,7 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     tools:context=".MainActivity8"
-    android:background="@color/color_haichingu"
+    android:background="@color/secondaryColor"
     >
 
 
@@ -43,7 +43,7 @@
         android:layout_marginLeft="40dp"
         android:text="Kpop Album"
         android:textSize="27dp"
-        android:textColor="@color/colors_sign"/>
+        android:textColor="@color/colorsSign"/>
 
     <ImageView
         android:id="@+id/imageView"
@@ -60,7 +60,7 @@
         android:textSize="20dp"
         android:layout_marginLeft="25dp"
         android:layout_marginTop="290dp"
-        android:textColor="@color/colors_shooping"/>
+        android:textColor="@color/colorsGoshopping"/>
 
     <TextView
         android:layout_width="wrap_content"
@@ -83,7 +83,7 @@
         android:layout_marginTop="290dp"
         android:textSize="19dp"
         android:layout_marginLeft="100dp"
-        android:textColor="@color/colors_sign"
+        android:textColor="@color/colorsSign"
         />
 
     <ImageView
@@ -101,7 +101,7 @@
         android:textSize="20dp"
         android:layout_marginLeft="240dp"
         android:layout_marginTop="290dp"
-        android:textColor="@color/colors_shooping"/>
+        android:textColor="@color/colorsShooping"/>
     <TextView
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
@@ -109,7 +109,7 @@
         android:layout_marginTop="290dp"
         android:textSize="19dp"
         android:layout_marginLeft="300dp"
-        android:textColor="@color/colors_sign"/>
+        android:textColor="@color/colorsSign"/>
     <TextView
         android:layout_width="wrap_content"
         android:layout_height="match_parent"
@@ -132,7 +132,7 @@
         android:textSize="16dp"
         android:layout_marginLeft="25dp"
         android:layout_marginTop="580dp"
-        android:textColor="@color/colors_shooping"/>
+        android:textColor="@color/colorsShooping"/>
 
     <TextView
         android:layout_width="wrap_content"
@@ -155,7 +155,7 @@
         android:layout_marginTop="580dp"
         android:textSize="19dp"
         android:layout_marginLeft="110dp"
-       android:textColor="@color/colors_sign"/>
+       android:textColor="@color/colorsSign"/>
 
     <ImageView
         android:id="@+id/imageView21"
@@ -171,7 +171,7 @@
         android:textSize="19dp"
         android:layout_marginLeft="220dp"
         android:layout_marginTop="610dp"
-        android:textColor="@color/black_color"/>
+        android:textColor="@color/blackColor"/>
     <TextView
         android:layout_width="wrap_content"
         android:layout_height="match_parent"
@@ -179,7 +179,7 @@
         android:textSize="16dp"
         android:layout_marginLeft="230dp"
         android:layout_marginTop="580dp"
-        android:textColor="@color/colors_shooping"/>
+        android:textColor="@color/colorsShooping"/>
     <TextView
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
@@ -187,7 +187,7 @@
         android:layout_marginTop="580dp"
         android:textSize="19dp"
         android:layout_marginLeft="300dp"
-        android:textColor="@color/colors_sign"/>
+        android:textColor="@color/colorsSign"/>
 
 
 

@@ -11,5 +11,7 @@
     <color name="colorsSign">#F01358</color>
     <color name="colorsKpop">#EDD4C2</color>
     <color name="colorsBackground">#F3F4F4</color>
+    <color name="colorsEnter">#C0C2C1</color>
+    <color name="colorsOnconnect">#FB97B5</color>
 
 </resources>

@@ -5,7 +5,7 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     tools:context=".MainActivity2"
-    android:background="@color/colors_backroundlogin"
+    android:background="@color/colorsBackground"
     >
 <TextView
 
@@ -19,7 +19,7 @@
     android:fontFamily="@font/goodfaster"
     android:gravity="right"
     android:text="Jastip Chingu"
-    android:textColor="@color/colors_logo"
+    android:textColor="@color/colorsLogo"
     android:textSize="30dp"
     android:textStyle="bold"/>
 
@@ -34,7 +34,7 @@
         android:layout_alignParentLeft="true"
         android:text="Id"
         android:gravity="left"
-        android:textColor="@color/colors_logo"
+        android:textColor="@color/colorsLogo"
         android:textSize="20dp"
         android:textStyle="bold"/>
 
@@ -48,7 +48,7 @@
         android:layout_marginBottom="20dp"
         android:gravity="left"
         android:text="Welcome Back...."
-        android:textColor="@color/colors_logo"
+        android:textColor="@color/colorsLogo"
         android:textSize="20dp"
         android:textStyle="bold"/>
     <TextView
@@ -61,7 +61,7 @@
         android:layout_marginBottom="20dp"
         android:gravity="left"
         android:text="Enter your email adress"
-        android:textColor="@color/color_enter"
+        android:textColor="@color/colorsEnter"
         android:textSize="20dp"
         android:textStyle="bold"/>
     <TextView
@@ -74,7 +74,7 @@
         android:layout_marginBottom="20dp"
         android:layout_alignParentLeft="true"
         android:text="Password"
-        android:textColor="@color/colors_logo"
+        android:textColor="@color/colorsLogo"
         android:textSize="20dp"
         android:textStyle="bold"/>
     <TextView
@@ -87,7 +87,7 @@
         android:layout_marginBottom="20dp"
         android:gravity="left"
         android:text="Enter your password"
-        android:textColor="@color/color_enter"
+        android:textColor="@color/colorsEnter"
         android:textSize="20dp"
         android:textStyle="bold"/>
 <TextView
@@ -100,7 +100,7 @@
     android:layout_marginBottom="20dp"
     android:layout_alignParentRight="true"
     android:text="Forgot Password?"
-    android:textColor="@color/colors_logo"
+    android:textColor="@color/colorsLogo"
     android:textSize="20dp"
     android:textStyle="bold"/>
 
@@ -114,21 +114,21 @@
         android:layout_marginBottom="20dp"
         android:gravity="left"
         android:text="Or Connect with"
-        android:textColor="@color/color_onconnect"
+        android:textColor="@color/colorsOnconnect"
         android:textSize="20dp"
         android:textStyle="bold"/>
 
     <View
         android:layout_width="match_parent"
         android:layout_height="2dp"
-        android:background="@color/colors_sign"
+        android:background="@color/colorsSign"
         android:visibility="visible"
         android:layout_marginTop="330dp"
         />
     <View
         android:layout_width="match_parent"
         android:layout_height="1dp"
-        android:background="@color/colors_sign"
+        android:background="@color/colorsSign"
         android:visibility="visible"
         android:layout_marginTop="430dp"/>
 
@@ -146,7 +146,7 @@
         android:layout_centerHorizontal="true"
         android:layout_marginTop="500dp"
         android:text="SIGN IN"
-        android:textColor="@color/secondary_color"
+        android:textColor="@color/colorsSign"
         android:textSize="20dp"/>
 
     <ImageView
@@ -207,7 +207,7 @@
         android:layout_marginEnd="20dp"
         android:layout_marginBottom="20dp"
         android:text="Don’t  have an account ?"
-        android:textColor="@color/color_onconnect"
+        android:textColor="@color/colorsOnconnect"
         android:textSize="20dp"
         android:textStyle="normal"/>
 
@@ -221,7 +221,7 @@
         android:layout_marginEnd="50dp"
         android:layout_marginBottom="20dp"
         android:text="Sign up"
-        android:textColor="@color/color_onconnect"
+        android:textColor="@color/colorsSign"
         android:textSize="20dp"
         android:textStyle="bold"/>
 

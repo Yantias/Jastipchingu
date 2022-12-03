@@ -5,7 +5,7 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     tools:context=".MainActivity6"
-    android:background="@color/color_haichingu"
+    android:background="@color/secondaryColor"
     >
 
     <ImageButton
@@ -49,7 +49,7 @@
         android:layout_marginBottom="20dp"
         android:gravity="left"
         android:text="Shop in"
-        android:textColor="@color/black_color"
+        android:textColor="@color/blackColor"
         android:textSize="20dp"
         android:textStyle="bold"/>
 
@@ -69,7 +69,7 @@
         android:layout_marginLeft="20dp"
         android:layout_marginTop="390dp"
         android:text="Lightstick"
-        android:textColor="@color/black_color"
+        android:textColor="@color/blackColor"
         android:textSize="27dp"
         />
 
@@ -82,7 +82,7 @@
         android:layout_marginLeft="20dp"
         android:layout_marginTop="485dp"
         android:text="Kpop Album"
-        android:textColor="@color/black_color"
+        android:textColor="@color/blackColor"
         android:textSize="26dp"/>
 
     <ImageView
@@ -92,7 +92,7 @@
         android:layout_alignParentRight="true"
         android:layout_centerHorizontal="true"
         android:layout_marginRight="70dp"
-        android:layout_marginTop="370dp"
+        android:layout_marginTop="380dp"
         app:srcCompat="@drawable/lssvt" />
 
     <ImageButton
@@ -171,7 +171,7 @@
         android:layout_alignParentLeft="true"
         android:text="Home"
         android:gravity="left"
-        android:textColor="@color/colors_logo"
+        android:textColor="@color/colorsLogo"
         android:textSize="17dp"
         android:textStyle="bold"/>
 
@@ -186,7 +186,7 @@
         android:layout_alignParentLeft="true"
         android:text="List"
         android:gravity="left"
-        android:textColor="@color/color_enter"
+        android:textColor="@color/colorsEnter"
         android:textSize="17dp"
         android:textStyle="bold"/>
     <TextView
@@ -200,7 +200,7 @@
         android:layout_alignParentLeft="true"
         android:text="Bag"
         android:gravity="left"
-        android:textColor="@color/color_enter"
+        android:textColor="@color/colorsEnter"
         android:textSize="17dp"
         android:textStyle="bold"/>
 
@@ -215,7 +215,7 @@
         android:layout_alignParentLeft="true"
         android:text="Wishlist"
         android:gravity="left"
-        android:textColor="@color/color_enter"
+        android:textColor="@color/colorsEnter"
         android:textSize="17dp"
         android:textStyle="bold"/>
 
@@ -229,7 +229,7 @@
         android:layout_marginBottom="20dp"
         android:layout_alignParentRight="true"
         android:text="Account"
-        android:textColor="@color/color_enter"
+        android:textColor="@color/colorsEnter"
         android:textSize="17dp"
         android:textStyle="bold"/>
 
